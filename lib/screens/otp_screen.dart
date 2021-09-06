@@ -24,7 +24,7 @@ class OtpScreen extends StatelessWidget {
                 width: 300,
                 height: 80,
                 child: Text(
-                  "please check your mobile number continue to reset your password",
+                  "please check your mobile number ************ continue to reset your password",
                   style: TextStyle(
                     fontSize: 16,
                   ),
